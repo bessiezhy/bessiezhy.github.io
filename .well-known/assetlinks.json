@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.company.cfapplink2412",
+      "sha256_cert_fingerprints":
+      ["34:0F:8B:68:74:54:5F:F9:AC:2D:9C:21:06:ED:C0:A2:8B:97:92:F3:F7:53:8B:AF:FA:83:A7:EA:48:C8:24:46"]
+    }
+  }]
